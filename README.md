@@ -17,6 +17,7 @@ RESTful APIs
 Secure environment configuration
 
 Project Structure
+
 client/   → React frontend
 
 backend/   → Node & Express backend

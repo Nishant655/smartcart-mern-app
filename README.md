@@ -18,7 +18,8 @@ Secure environment configuration
 
 Project Structure
 client/   → React frontend
-server/   → Node & Express backend
+
+backend/   → Node & Express backend
 
 Status
 

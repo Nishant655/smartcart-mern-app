@@ -1,58 +1,30 @@
-🛒 SmartCart – MERN E-Commerce App
+SmartCart 🛒
 
-SmartCart is a full-stack MERN e-commerce application built using React, Node.js, Express, and MongoDB. It provides secure authentication, product management, and cart functionality following industry-standard practices.
+A full-stack MERN e-commerce application built with React, Node.js, Express, and MongoDB, focusing on clean architecture, secure authentication, and real-world functionality.
 
-🚀 Tech Stack
+Stack
 
-React
+React · Node.js · Express · MongoDB · JWT
 
-Node.js
+Highlights
 
-Express
+Authentication & authorization
 
-MongoDB
+Product and cart management
 
-JWT Authentication
+RESTful APIs
 
-✨ Features
+Secure environment configuration
 
-User authentication & authorization
+Project Structure
+client/   → React frontend
+server/   → Node & Express backend
 
-Product CRUD operations
+Status
 
-Shopping cart functionality
+🚧 Actively developed | 🚀 Deployment in progress
 
-RESTful API architecture
-
-Secure environment variables
-
-⚙️ Setup
-git clone https://github.com/Nishant655/smartcart-mern-app.git
-cd smartcart-mern-app
-
-
-Backend
-
-cd server
-npm install
-npm start
-
-
-Frontend
-
-cd client
-npm install
-npm run dev
-
-🔐 Environment Variables
-
-Create .env in server/:
-
-MONGO_URI=
-JWT_SECRET=
-PORT=5000
-
-👨‍💻 Author
+Author
 
 Nishant Gathani
-GitHub: https://github.com/Nishant655
+GitHub → https://github.com/Nishant655
